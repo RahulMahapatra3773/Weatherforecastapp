@@ -1,1 +1,1 @@
-# Weatherforecastapp
+# WeatherForecatingApp
